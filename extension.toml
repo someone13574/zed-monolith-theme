@@ -1,0 +1,7 @@
+id = "monolith"
+name = "Monolith"
+version = "0.0.1"
+schema_version = 1
+authors = ["Owen Law <owenlaw222@gmail.com>"]
+description = "A clean dark theme"
+repository = "https://github.com/someone13574/zed-monolith-theme"
