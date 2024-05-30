@@ -32,6 +32,7 @@
                 "ghost_element.background": "#00000000",
                 "ghost_element.hover": "#ffffff02",
                 "ghost_element.selected": "#ffffff04",
+                "hint": "#505050ff",
                 "ignored": "#505050ff",
                 "modified": "#0077b6ff",
                 "panel.background": "#181818ff",
