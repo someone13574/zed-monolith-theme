@@ -188,6 +188,7 @@
         "text.muted": "#b0b0b0ff",
         "text.placeholder": "#505050ff",
         "title_bar.background": "#181818ff",
+        "title_bar.inactive_background": "#181818ff",
         "toolbar.background": "#181818ff",
         "warning": "#e0c000ff",
         "warning.background": "#a09000ff",
